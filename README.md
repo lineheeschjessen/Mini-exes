@@ -1,2 +1,2 @@
 # Mini-exes
-![soccer.png "et billede af en fodbold"](soccer.png "Evt. beskrivelse af billede")
+![bold.png "et billede af en fodbold"](bold.png "Evt. beskrivelse af billede")
