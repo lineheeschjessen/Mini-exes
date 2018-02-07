@@ -1,2 +1,2 @@
 # Mini-exes
-![alt text](soccer.png "Evt. beskrivelse af billede")
+![soccer.png "et billede af en fodbold"](soccer.png "Evt. beskrivelse af billede")
