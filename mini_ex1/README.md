@@ -1,4 +1,4 @@
-### Mini Exercise 1
+##### Mini Exercise 1
 
 Link: https://rawgit.com/lineheeschjessen/Mini-exes/master/mini_ex1/empty-example/index.html
 
