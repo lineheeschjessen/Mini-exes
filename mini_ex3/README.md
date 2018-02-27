@@ -4,6 +4,8 @@
 
 Link: https://rawgit.com/lineheeschjessen/Mini-exes/master/mini_ex3/empty-example/index.html
 
+(does not work on safari for me)
+
 ## Description of my program 
 
 My program consists of three throbbers, that look similar to flowers. These throbbers are slightly different in their colors, their speed and the amount of "petals" they have. They look this way, because I wanted to try to associate throbbers with something that is pleasant to look at. Normally throbbers are something we want to avoid, but maybe we could learn to look at them differently. To make the program I used Winnies code, and changed some of it. I wanted to do it this way, because I wanted to understand Winnies code fully, which took me some time. While playing around with the code, the idea of flowers came to me, and so from there I had an idea of something I wanted to visualize. Once I was pleased with the throbbers, I tried to challenge myself to see if I would be able to make a background that would change when you clicked the mouse, stars that would appear and dissapper, as well as a sun. By doing this, I deffinetely think that I learned a lot more that I can use further on, than if I had just made the throbbers. 
