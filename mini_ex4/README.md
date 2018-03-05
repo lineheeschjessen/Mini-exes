@@ -2,7 +2,7 @@
 
 ![alt text](mini_ex4.png "beskrivelse af billede")
 
-Link: 
+Link: https://rawgit.com/lineheeschjessen/Mini-exes/master/mini_ex4/index.html
 
 ## Description of my program 
 
