@@ -3,7 +3,7 @@
 
 ![alt text](mini_ex5.png "beskrivelse af billede")
 
-Link: 
+Link: https://rawgit.com/lineheeschjessen/Mini-exes/master/mini_ex5/empty-example/index.html
 
 ##  Describe how does your game/game object works?
 
