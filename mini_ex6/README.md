@@ -1,3 +1,9 @@
+# Mini Exercise 6
+
+![alt text](mini_ex6.gif "beskrivelse af billede")
+
+Link: 
+
 ### What are the rules in your generative program and describe how your program performs over time. What have been generated?
 There are a few simple rules to my program:
 
