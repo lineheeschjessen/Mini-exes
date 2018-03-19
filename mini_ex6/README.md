@@ -2,7 +2,7 @@
 
 ![alt text](mini_ex6.gif "beskrivelse af billede")
 
-Link: 
+Link: https://rawgit.com/lineheeschjessen/Mini-exes/master/mini_ex6/empty-example/index.html
 
 ### What are the rules in your generative program and describe how your program performs over time. What have been generated?
 There are a few simple rules to my program:
