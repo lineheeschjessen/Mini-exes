@@ -1,4 +1,4 @@
-# Mini Exercise 7
+# Mini Exercise 7 - "title"
 
 ![alt text](mini_ex7.png "beskrivelse af billede")
 
