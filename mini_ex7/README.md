@@ -1,4 +1,4 @@
-# Mini Exercise 7 - "title"
+# Mini Exercise 7 - Aesthetic confusion
 
 ![alt text](mini_ex7.png "beskrivelse af billede")
 
