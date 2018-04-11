@@ -36,3 +36,6 @@ In the other idea about data capture, the technical challenge might be to get ou
 
 ### The difference between my individual flowchart, and our group-made flowcharts
 
+I think the biggest difference between my own flowchart, and the ones we made together is, that the one I made myself is based on a program that already exists, whereas the ones we made together are based on a program that we want to make. This means that my own flowchart may be a bit more technical, whereas the other ones are more conceptual. They are made based on an idea that we find interesting, but we may end out not having the skills to actually make it. 
+
+### Algorithms in a wider cultural contexts
