@@ -6,13 +6,33 @@
 
 Link: https://github.com/lineheeschjessen/Mini-exes/tree/master/mini_ex4
 
+When making this flowchart, what I found difficult was first of all to figure out the amount of detail of the program that I wanted my flowchart to display. I quickly decided to keep it quite simple and leave out any detail that I did not find to be relevant for someone who is not a programmer. The next thing that I found a bit difficult was to figure out how display the process that the program goes through, when it adds the different color-filters, because the color change on every-second click. For this I again chose to make it as simple as possible, to avoid confusion, but it also makes me doubt whether my flowchart is detailed enough.  
 
+## Flowchart on generativity and e-literature idea
+
+![alt text](Generative.png "beskrivelse af billede")
+
+The Female Body 
+
+The idea of this program is a generative set of sentences that describe different kind of female bodies, but always end by declaring that the body is beautiful and feminine (or something like that). The sentences will follow a formula for how the sentences are structured to make sure they make sense. The text will be divided into verses constructed of three or four sentences. When the fourth verse has been generated the screen will clear and a new set of verses will be generated. 
 
 ## Flowchart on data capture idea
 
 ![alt text](datacapture.png "beskrivelse af billede")
 
-## Flowchart on generativity and e-literature idea
+Data capture
 
-![alt text](Generative.png "beskrivelse af billede")
+The second idea is about data capture using the webcam. We want to create two buttons; a “post” button and a “delete” button. When clicking the “post” button, the picture is posted in the side of the screen. The program will then randomly give the pictures likes. If a picture has less than 5 likes, a text will appear encouraging you to delete this picture. If you click the “delete” button the picture will be deleted and if not it will be kept. 
+
+### The balance between simplicity and complexity 
+
+The balance between simplicity and complicity in our two ideas for our final project, is so that our coded program is made quite simple, whereas our conceptual thoughts about our programs is more complex. We have worked out our ideas by starting with a conceptual idea and theme, and thereby we have brainstormed ideas to illustrate our statements in a simple way. 
+
+### The technical challenges for the two ideas
+
+The technical challenges for our idea about the generativity project, might be to make the text appear the way we want to, and make it generate some sentences that all makes sense, and display them in a speed that makes it possible for the reader to read them properly before they disappear. 
+
+In the other idea about data capture, the technical challenge might be to get our ideas about the like selection and the buttons to work intentionally so that our conceptual idea gets visualized. 
+
+### The difference between my individual flowchart, and our group-made flowcharts
 
