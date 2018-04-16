@@ -39,3 +39,9 @@ In the other idea about data capture, the technical challenge might be to get ou
 I think the biggest difference between my own flowchart, and the ones we made together is, that the one I made myself is based on a program that already exists, whereas the ones we made together are based on a program that we want to make. This means that my own flowchart may be a bit more technical, whereas the other ones are more conceptual. They are made based on an idea that we find interesting, but we may end out not having the skills to actually make it. 
 
 ### Algorithms in a wider cultural contexts
+
+In the text "What is an algorithm?" by Ed Finn, he says: 
+
+"This is the context in which we use algorithms today: as pieces of quotidian technical magic that we entrust with booking vacations, suggesting potential mates, evaluating standardized test essays, and performing many other kinds of cultural work." (p. 16.). 
+
+I find this quote relevant, because I believe that this is the relationship with algorithms that most people have: they don't really know what it is, it is just some kind of magic that works and that we trust, because they make our lives easier a lot of the time. I don't think that many people take the time to think about what is actually going on behind the screen, because we have become so used to relying on the computer to do things for us, but I think it is important for people to have just a general idea of what is happening, because algorithms are becoming such a big part of our everyday lives and culture.
